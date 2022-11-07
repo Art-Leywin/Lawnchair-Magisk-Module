@@ -1,0 +1,7 @@
+id=Lawnchair
+name=Lawnchair full package
+version=v12.1.0.Alpha.3
+versionCode=29
+author=Psk.It
+description=Lawnchair launcher + icons + feeds + recents
+minApi=32
